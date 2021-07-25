@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 100 100">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="Door Iron Right" vectornator:layerName="Door Iron Right">
+<path d="M63+27.8616L76.7341+27.8616L76.7341+63.8616L76.7341+99.8616L63+99.8616L63+27.8616ZM67.1618+32.0235L67.1618+95.6998L72.7803+95.6998L72.7803+32.0235L67.1618+32.0235Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Iron Gate Right" vectornator:layerName="Door Iron Gate Right" visibility="hidden">
+<path d="M69.7627+28C76.2424+28+78.4996+36.936+70.9299+39.2547L70.9299+48.7586C76.6035+50.177+76.7151+58.4167+70.9299+59.7632L70.8465+59.8466L70.8465+68.6836L70.9299+68.7669C73.4629+69.6501+75.4969+71.4856+75.3317+74.2942C75.0583+78.9425+71.6671+79.1948+70.9215+79.8048C70.8018+79.9028+70.7708+80.0851+70.7631+80.23C70.7053+81.3281+70.5925+88.3383+70.7965+88.9503C70.836+89.0687+73.2191+90.1327+73.8478+90.9011C76.3176+93.9198+75.6138+97.9471+72.1637+99.8048C71.2985+100.271+70.4312+100.28+69.4709+100.28C62.9442+100.28+62.1436+90.7004+68.2621+89.2754C68.2621+87.8432+68.4947+80.4+68.1787+79.8132C67.9018+79.2989+63.7669+78.5197+64.0103+73.894C64.2265+69.7875+68.003+69.1231+68.2621+68.6419C68.5658+68.0779+68.3455+61.1646+68.3455+59.7632C62.3213+57.6105+62.9472+50.0337+68.4288+48.7586L68.4288+39.0879C67.6271+38.8875+66.9766+38.4492+66.453+38.0208C62.6679+34.9239+64.6249+28.0834+69.7627+28Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Locked Iron Bar Right" vectornator:layerName="Door Locked Iron Bar Right" visibility="hidden">
+<path d="M92.6498+32.3866L90.9549+32.4863L90.8552+32.586L92.1513+36.7733C95.0377+36.7733+96.9637+40.3981+96.837+42.8049C96.799+43.5267+96.5643+44.2214+96.3385+44.8986C96.128+45.5302+95.7334+46.0936+95.4213+46.6732C92.1562+52.7369+87.6277+58.4736+91.4733+65.6155C92.5142+67.5485+93.5626+69.4093+95.5709+70.4907C96.0575+70.7527+96.5935+70.7721+97.3355+70.9692L97.4352+70.8695L98.4322+66.6823C94.3477+66.6823+92.9558+61.8191+93.7464+58.6567C95.4713+51.7571+103.589+46.6856+98.6116+37.4413C97.5397+35.4505+95.4734+32.4863+92.6498+32.3866Z" opacity="1" fill="#ffffff"/>
+<path d="M81.7302+32.3866C81.111+32.3866+80.2582+32.2496+79.9656+32.6259C79.8573+32.7651+80.8922+36.093+81.0921+36.4642C81.342+36.9283+82.3649+36.8735+82.8268+37.1222C84.8944+38.2355+86.1553+41.291+85.7579+43.5427C84.7265+49.3872+75.3716+56.0912+80.5538+65.7152C81.612+67.6805+83.5466+70.9692+86.4159+70.9692L87.4129+66.6823C83.4282+66.6823+81.8207+61.4956+82.7571+58.6866C85.3315+50.9632+92.3331+46.1316+87.5624+37.2718C86.583+35.4528+84.2987+32.4863+81.7302+32.3866Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Locked Wood Bar Right" vectornator:layerName="Door Locked Wood Bar Right">
+<path d="M81.7302+32.3866C81.111+32.3866+80.2582+32.2496+79.9656+32.6259C79.8573+32.7651+80.8922+36.093+81.0921+36.4642C81.342+36.9283+82.3649+36.8735+82.8268+37.1222C84.8944+38.2355+86.1553+41.291+85.7579+43.5427C84.7265+49.3872+75.3716+56.0912+80.5538+65.7152C81.612+67.6805+83.5466+70.9692+86.4159+70.9692L87.4129+66.6823C83.4282+66.6823+81.8207+61.4956+82.7571+58.6866C85.3315+50.9632+92.3331+46.1316+87.5624+37.2718C86.583+35.4528+84.2987+32.4863+81.7302+32.3866Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Locked Iron Bolt Right" vectornator:layerName="Door Locked Iron Bolt Right" visibility="hidden">
+<path d="M81+36.6365L86.5691+36.6365L86.5691+64.6807L81+64.6807L81+36.6365Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Locked Wood Latch Right" vectornator:layerName="Door Locked Wood Latch Right" visibility="hidden">
+<path d="M64.1545+27.8519L71.7125+27.8519L71.7125+37.7966C74.7361+37.7966+80.6559+36.5711+80.8617+40.4817C81.0772+44.5765+74.7202+43.3657+71.7125+43.3657L71.7125+99.8519L64.1545+99.8519L64.1545+43.3657C61.131+43.3657+55.2112+44.5912+55.0053+40.6806C54.7898+36.5859+61.1468+37.7966+64.1545+37.7966L64.1545+27.8519Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Wood Right" vectornator:layerName="Door Wood Right" visibility="hidden">
+<path d="M64+27.7125L71.6+27.7125L71.6+99.7125L64.1+99.7125L64+99.6125L64+27.7125Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Opening Right" vectornator:layerName="Door Opening Right">
+<path d="M60.6511+27.9125C53.7129+27.9125+46.0425+30.1987+39.7011+32.3125C34.7426+33.9653+29.1202+36.9696+25.0711+40.2825C22.4388+42.4363+19.5388+44.4886+17.3511+47.1625C16.2126+48.554+15.0197+49.9009+13.8811+51.2925C13.1567+52.1779+12.5956+53.197+11.8711+54.0825C10.2546+56.0583+9.16857+58.5587+7.97114+60.7825C2.78593+70.4122+0.62128+81.8298+0.0511395+92.6625C-0.0639244+94.8487+0.0511395+97.0729+0.0511395+99.5125L0.151134+99.6125L3.25114+99.5125C3.25114+96.9735+3.12823+94.5977+3.25114+92.2625C3.7862+82.0962+5.91107+71.3083+10.7711+62.2825C12.111+59.7942+13.3576+57.099+15.1711+54.8825C16.3287+53.4677+17.3936+51.9772+18.5511+50.5625C19.2967+49.6513+20.2056+48.8738+20.9511+47.9625C22.6133+45.931+25.6359+43.9659+27.6811+42.2925C30.4284+40.0447+35.636+37.1209+38.9911+36.0025C40.7868+35.4039+42.525+34.6312+44.3211+34.0325C48.8274+32.5304+55.7867+31.1125+60.7511+31.1125L60.8511+31.0125L60.6511+27.9125Z" opacity="1" fill="#ffffff"/>
+</g>
+<g id="Door Locked Right" vectornator:layerName="Door Locked Right" visibility="hidden">
+<path d="M85.8004+34.8887C77.7752+34.8887+76.699+44.7658+83.3937+45.9473C90.6277+47.2239+92.8899+37.1912+85.8004+34.8887Z" opacity="1" fill="#ffffff"/>
+</g>
+</svg>
