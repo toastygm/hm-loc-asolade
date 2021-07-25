@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 100 100">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 150 150">
 <metadata>
 <vectornator:setting key="DimensionsVisible" value="1"/>
 <vectornator:setting key="PencilOnly" value="0"/>
@@ -20,6 +20,6 @@
 </metadata>
 <defs/>
 <g id="Ceiling Arched" vectornator:layerName="Ceiling Arched">
-<path d="M32.9578+7.02381L67.9492+7.02381C68.7745+9.51886+75.5105+26.1383+75.3804+26.702C75.2244+27.378+70.7486+29.0533+70.1678+28.3434C69.7838+27.874+64.3065+14.1335+63.9811+12.6152L36.7455+12.6152C36.1929+14.8258+31.4377+27.2678+30.4326+28.8484L25.3823+27.0447C25.3823+26.3516+32.1388+8.84205+32.9578+7.02381Z" opacity="1" fill="#ffffff"/>
+<path stroke="#000000" stroke-width="1" d="M63.5191+0.744609L86.7023+0.744609C87.2491+2.39768+91.712+13.4087+91.6258+13.7822C91.5224+14.2301+88.557+15.34+88.1722+14.8697C87.9178+14.5587+84.2889+5.45506+84.0733+4.44915L66.0286+4.44915C65.6624+5.91375+62.5119+14.1571+61.846+15.2043L58.5+14.0093C58.5+13.5501+62.9765+1.94927+63.5191+0.744609Z" fill="#ffffff" stroke-linecap="butt" opacity="1" stroke-linejoin="round"/>
 </g>
 </svg>
