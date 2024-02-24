@@ -1,47 +1,57 @@
 {
-  "name": "hm-loc-asolade",
+  "id": "hm-loc-asolade",
   "title": "Asolade",
   "description": "Location details for the Asolade hundred in the Kingdom of Kaldor",
   "version": "0.0.1",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-loc-asolade/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Tom Rodriguez",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "0.8.8"
+  },
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
   "packs": [
     {
       "label": "Asolade - Scenes",
-      "entity": "Scene",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
     },
     {
       "label": "Asolade - Journal",
-      "entity": "JournalEntry",
       "name": "journals",
-      "path": "packs/journals.db"
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
     }
   ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
-    }
-  ],
-  "url": "https://github.com/toastygm/hm-loc-asolade/",
-  "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-asolade/master/module.json",
-  "download": "https://github.com/toastygm/hm-loc-asolade/archive/v0.0.1.zip",
   "flags": {
     "allowBugReporter": true
-  }
+  },
+  "url": "https://github.com/toastygm/hm-loc-asolade/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-asolade/master/module.json",
+  "download": "https://github.com/toastygm/hm-loc-asolade/archive/v0.0.1.zip"
 }
